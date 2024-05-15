@@ -1,6 +1,6 @@
 ### Hi there, I'm Adam 👋
 
-## 💻 Skills
+### 💻 Skills
 
 <div style="display:flex;flex-wrap:wrap">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
