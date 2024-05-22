@@ -21,9 +21,6 @@
   
 ###  🌍 Social
   <div style="display:flex;flex-wrap:wrap">
-    <a href="https://twitter.com/SisakAdam" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-    </a>
     <a href="https://www.linkedin.com/in/adam-sisak" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
